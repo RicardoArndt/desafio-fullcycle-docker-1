@@ -3,7 +3,7 @@
 Imagem Docker minimalista para aplicações desenvolvidas em Go, utilizando `scratch` como imagem final para reduzir a superfície de ataque e o tamanho da distribuição.
 
 ## Link da imagem no HUB
-https://app.docker.com/accounts/15253195
+[https://app.docker.com/accounts/15253195](https://hub.docker.com/repository/docker/15253195/go-minimal-base/general)
 
 Executar a imagem (Docker Hub)
 ```bash
